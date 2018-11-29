@@ -1,0 +1,28 @@
+{
+  "name": "book-shop-api",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "server.js",
+  "scripts": {
+    "test": "n/a",
+    "start":"node server.js",
+    "server":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "saidur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.7"
+  }
+}
